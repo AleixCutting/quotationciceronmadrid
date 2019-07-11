@@ -39,7 +39,8 @@ library(timevis)
  
 Eric Vökel Madrid suites and Eric vökel Atocha suites are both two apartments buildings located in Madrid. These apartments belongs to a  company hosted in different European countries. They feature a high standing apartment complex.
 All 70 guests will be distributed in both buildings, which are 20 minutes by walk/ 10 minutes by car each other. 
-*Each guests will have his own room, but the bathrooms will be shared with all guests in the apartment (1 bathroom or 2, depending on the apartment)*
+<br>
+**Each guests will have his own room, but the bathrooms will be shared with all guests in the apartment (1 bathroom or 2, depending on the apartment)**
 
 #### *Eric Vökel Madrid suites*
 
@@ -55,13 +56,14 @@ Eric Vökel Madrid suites features capacity up to 44 people. It has different ty
 * 1x Apartment, 3 Bedrooms + 1 bed-sofa, 2 Bathrooms (3 guests)
 * 1x Attic apartment, 3 Bedrooms + 1 bed-sofa, 2 Bathrooms (3 guests)
 
-* *Each guest would has his own room*
+* *Each guest will has his own room*
 
 <img src = "https://media-cdn.tripadvisor.com/media/photo-s/02/64/04/cc/living-room-superior.jpg" width="720">
 
 <img src = "https://s-ec.bstatic.com/images/hotel/max1024x768/118/11869326.jpg" width="720">
 
 <img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-madrid-suites/madrid_suites_3bed_2bath_04.jpg" width="720">
+
 
 #### *Eric Vökel Atocha suites*
 
@@ -76,7 +78,7 @@ Eric Vökel Atocha suites features capacity up to 35 people. As well as Eric Vö
 * 3x Apartments, 2 Bedrooms + 1 bed-sofa, 1 Bathrooms (2 guests)
 * 8x Apartment, 2 Bedrooms + 1 bed-sofa, 2 Bathrooms (2 guests)
 
-* *Each guest would has his own room*
+* *Each guest will has his own room*
 
 <img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-atocha-suites/atocha_suites_2bed_1bath_01.jpg" width="720">
 

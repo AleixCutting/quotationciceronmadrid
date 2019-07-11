@@ -1,0 +1,111 @@
+---
+title: "CICERON"
+author: "CICERON"
+date: '14/15 Feb - 13/14 Mar'
+output:
+ 
+  html_document:
+    css: FORMATO.css
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+---
+
+<script> 
+    $(document).ready(function() { 
+    $head = $('#header'); 
+    $head.prepend('<A href = https://www.cuttingedge-events.com><img src ="LOGO.png" width="150" vspace="50" align="right"></A>') 
+    }); 
+</script> 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+
+```{r libraries}
+library(readxl)
+library(shiny)
+library(dplyr)
+library(knitr)
+library(timevis)
+
+```
+
+## Madrid
+
+### _**Eric Vökel boutique apartments**_{.tabset .tabset-fade .tabset-pills}
+ 
+Eric Vökel Madrid suites and Eric vökel Atocha suites are both two apartments buildings located in Madrid. These apartments belongs to a  company hosted in different European countries. They feature a high standing apartment complex.
+All 70 guests will be distributed in both buildings, which are 20 minutes by walk/ 10 minutes by car each other. 
+*Each guests will have his own room, but the bathrooms will be shared with all guests in the apartment (1 bathroom or 2, depending on the apartment)*
+
+#### *Eric Vökel Madrid suites*
+
+Located in San Bernardo street, Eric Vökel Madrid Suites is a gorgeous and incredibly refurbished property which includes beautiful apartments. Located in the heart of the Malasaña district, next to the Gran Vía, it allows guests to experience and enjoy a more pure, authentic Madrid. This central district, now the height of fashion, has great public transportation links that make it incredibly easy to get to any point of the city.
+
+The building is also just a ten minute walk from the Puerta del Sol, Plaza de España and the Prado Museum.
+
+Eric Vökel Madrid suites features capacity up to 44 people. It has different types of rooms:
+
+* 8x Apartments, 2 Bedrooms + 1 bed-sofa, 1 Bathroom (2 guests per apartment)
+* 9x Apartments, 2 Bedrooms + 1 bed-sofa, 2 Bathrooms (2 guests per apartment) 
+* 2x Attic apartments, 2 Bedrooms + 1 bed-sofa, 1 Bathroom (2 guests per apartment)
+* 1x Apartment, 3 Bedrooms + 1 bed-sofa, 2 Bathrooms (3 guests)
+* 1x Attic apartment, 3 Bedrooms + 1 bed-sofa, 2 Bathrooms (3 guests)
+
+* *Each guest would has his own room*
+
+<img src = "https://media-cdn.tripadvisor.com/media/photo-s/02/64/04/cc/living-room-superior.jpg" width="720">
+
+<img src = "https://s-ec.bstatic.com/images/hotel/max1024x768/118/11869326.jpg" width="720">
+
+<img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-madrid-suites/madrid_suites_3bed_2bath_04.jpg" width="720">
+
+#### *Eric Vökel Atocha suites*
+
+Located in Calle Vizcaya, Eric Vökel Atocha suites were completely refurbished in 2013, stand out thanks to their unique location. They are located right at center of the Golden Triangle of Art, just a few minutes away from the Prado Museum, the Reina Sofía museum and the Retiro Park. 
+
+Additionally, the Atocha metro station makes sure that guests are connected to every place of this fantastic city: the Plaza Mayor, the Puerta del Sol, the Gran Vía. And on top of that, the property offers free Jacuzzi and parking access.
+
+Eric Vökel Atocha suites features capacity up to 35 people. As well as Eric Vökel Madrid suites It has different types of rooms:
+
+* 8x Apartments, 1 Bedroom + 1 bed sofa, 1 Bathroom (individual apartment)
+* 5x Apartments, 1 Bedroom + 1 bed-sofa, 1 Bathroom, terrace (individual apartment)
+* 3x Apartments, 2 Bedrooms + 1 bed-sofa, 1 Bathrooms (2 guests)
+* 8x Apartment, 2 Bedrooms + 1 bed-sofa, 2 Bathrooms (2 guests)
+
+* *Each guest would has his own room*
+
+<img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-atocha-suites/atocha_suites_2bed_1bath_01.jpg" width="720">
+
+<img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-atocha-suites/atocha_suites_2bed_1bath_adap_05.jpg" width="720">
+
+<img src = "https://media-cdn.tripadvisor.com/media/photo-s/05/20/f9/d5/eric-vokel-boutique-apartments.jpg" width="710">
+
+## MAP 
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Z_4Xmfs9ijXo87ew4YIAOhWydhtWk1RZ" width="640" height="480"></iframe>
+
+
+*****
+
+## Terms & Conditions
+
+  * Rates valid for 2020.
+  
+  * Net rates for Ciceron
+  
+  * Cutting Edge Events management fee including in the detailed rates
+  
+  * VAT included. 
+  
+  * No reservation has been done. Availability upon request.
+  
+*****
+
+
+
+
+

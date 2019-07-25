@@ -33,16 +33,18 @@ library(timevis)
 
 ```
 
-## Madrid
+## SUGGESTED APARTMENTS: MADRID {.tabset .tabset-fade .tabset-pills}
 
-### _**Eric Vökel boutique apartments**_{.tabset .tabset-fade .tabset-pills}
+### _**Eric Vökel boutique apartments**_
  
 Eric Vökel Madrid suites and Eric vökel Atocha suites are both two apartments buildings located in Madrid. These apartments belongs to a  company hosted in different European countries. They feature a high standing apartment complex.
 All 70 guests will be distributed in both buildings, which are 20 minutes by walk/ 10 minutes by car each other. 
 <br>
 **Each guests will have his own room, but the bathrooms will be shared with all guests in the apartment (1 bathroom or 2, depending on the apartment)**
 
-#### *Eric Vökel Madrid suites*
+<br>
+
+#### **Eric Vökel Madrid suites**
 
 Located in San Bernardo street, Eric Vökel Madrid Suites is a gorgeous and incredibly refurbished property which includes beautiful apartments. Located in the heart of the Malasaña district, next to the Gran Vía, it allows guests to experience and enjoy a more pure, authentic Madrid. This central district, now the height of fashion, has great public transportation links that make it incredibly easy to get to any point of the city.
 
@@ -64,8 +66,9 @@ Eric Vökel Madrid suites features capacity up to 44 people. It has different ty
 
 <img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-madrid-suites/madrid_suites_3bed_2bath_04.jpg" width="720">
 
+<br>
 
-#### *Eric Vökel Atocha suites*
+#### **Eric Vökel Atocha suites**
 
 Located in Calle Vizcaya, Eric Vökel Atocha suites were completely refurbished in 2013, stand out thanks to their unique location. They are located right at center of the Golden Triangle of Art, just a few minutes away from the Prado Museum, the Reina Sofía museum and the Retiro Park. 
 
@@ -80,15 +83,38 @@ Eric Vökel Atocha suites features capacity up to 35 people. As well as Eric Vö
 
 * *Each guest will has his own room*
 
-<img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-atocha-suites/atocha_suites_2bed_1bath_01.jpg" width="720">
+<img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-atocha-suites/atocha_suites_2bed_1bath_01.jpg" width="100%">
 
-<img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-atocha-suites/atocha_suites_2bed_1bath_adap_05.jpg" width="720">
+<img src = "https://www.ericvokel.com/uploads/hotel/eric-vokel-atocha-suites/atocha_suites_2bed_1bath_adap_05.jpg" width="100%">
 
-<img src = "https://media-cdn.tripadvisor.com/media/photo-s/05/20/f9/d5/eric-vokel-boutique-apartments.jpg" width="710">
+<img src = "https://media-cdn.tripadvisor.com/media/photo-s/05/20/f9/d5/eric-vokel-boutique-apartments.jpg" width="100%">
+
+### _**Smart Collection Gran Via Capital**_
+
+SmartRentalCollection Gran Vía Capital is located right in Madrid's Gran Vía, one of the most important commercial streets, close to the main point of interest such as Puerta del Sol, Plaza Mayor, Palacio Real... The apartments are fully furnished and equipped for you to make the most out of your stay in Madrid, and feel like at home. They also feature a 24/7 Front Desk, a seasonal pool, sauna, solarium on the rooftop, gym and parking.
+
+All guests will be accomodated in the same building. There are two types of apartments:
+
+* 30x Apartments, 1 Bedroom and 1 Bathroom (1 guest)
+* 20x Apartments, 2 Bedrooms and 2 Barhrooms (2 guests)
+
+*Each guests will has his own room*
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-capitalcarrusel4281.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-capitalcarrusel2584.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-3dormitorios902.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-apto1dormitorioconterraza5210.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-apartamento2dormitorios5600.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-duplex3dormitorios01292.jpg" width="100%">
 
 ## MAP 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Z_4Xmfs9ijXo87ew4YIAOhWydhtWk1RZ" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Z_4Xmfs9ijXo87ew4YIAOhWydhtWk1RZ" width="100%" height="480"></iframe>
 
 
 *****
